@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Xinyu Zhou"
 title_separator          : "-"
 name                     : &name "Xinyu Zhou"
 description              : &description "CS Master in SJTU"
@@ -23,13 +23,13 @@ repository               : "The-Git-Rain/The-Git-Rain.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xinyu Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "CS Master in SJTU"
+  location         : "China"
   employer         : "SJTU"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xinyuzhourain@sjtu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
